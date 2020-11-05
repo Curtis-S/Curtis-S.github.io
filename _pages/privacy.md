@@ -2,7 +2,7 @@
 title: Privacy Policy 
 subtitle: Privacy policy for all apps published to the app store.
 description: Privacy policy for all apps published to the app store.
-featured_image: /images/demo/about.jpg
+featured_image: /images/demo/privacy.jpg
 ---
 
 ## Privacy Policy

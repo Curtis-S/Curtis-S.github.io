@@ -6,7 +6,7 @@ description: Coming soon to app store
 featured_image: '/images/demo/groupToDo.png'
 ---
 
-![](/images/demo/groupTodoAppPreview.jpg)
+![](/images/demo/groupTodoAppPreview.png)
 
 ## Group Todo
 
